@@ -14,7 +14,6 @@ int isEmpty(struct queue *q){
     return 1;
    }
    return 0;
-
 }
 
 
